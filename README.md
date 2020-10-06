@@ -1,13 +1,5 @@
 # CyberBullying Analysis
 
-  
-
-dataset: Formspring Dataset from Kaggle
-
-> https://www.kaggle.com/swetaagrawal/formspring-data-for-cyberbullying-detection
-
-  
-
 Implementation of AlBert finetuning for sentimental analysis of cyber bullying
 
   
